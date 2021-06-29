@@ -2,4 +2,5 @@
 
 Olá! bem vindo ao meu livro de receitas :wave:
 
-- ​			BOLO
+- ​	Bolo:cake:
+- ​     Coração de :chicken:
